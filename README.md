@@ -1,2 +1,0 @@
-# killbox
-Created By : @MrTermux
