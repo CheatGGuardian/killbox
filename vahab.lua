@@ -36,8 +36,8 @@ gg.clearResults()
 gg.searchNumber('1053609165;25;1056964608', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber('1056964608', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
 gg.getResults(5000)
-print('Replaced: ', gg.editAll('1180964608', gg.TYPE_DWORD))
-gg.toast('Activated') 
+print('Replaced: ', gg.editAll('1190964608', gg.TYPE_DWORD))
+gg.toast(' فعال شد ')
 goto credit
 
 ::cn::
